@@ -1,0 +1,11 @@
+/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/Microservices/Play.Catelog/src/Play.Catalog.Contracts/bin/Debug/net6.0/Play.Catalog.Contracts.deps.json
+/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/Microservices/Play.Catelog/src/Play.Catalog.Contracts/bin/Debug/net6.0/Play.Catalog.Contracts.dll
+/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/Microservices/Play.Catelog/src/Play.Catalog.Contracts/bin/Debug/net6.0/Play.Catalog.Contracts.pdb
+/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/Microservices/Play.Catelog/src/Play.Catalog.Contracts/obj/Debug/net6.0/Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/Microservices/Play.Catelog/src/Play.Catalog.Contracts/obj/Debug/net6.0/Play.Catalog.Contracts.AssemblyInfoInputs.cache
+/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/Microservices/Play.Catelog/src/Play.Catalog.Contracts/obj/Debug/net6.0/Play.Catalog.Contracts.AssemblyInfo.cs
+/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/Microservices/Play.Catelog/src/Play.Catalog.Contracts/obj/Debug/net6.0/Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/Microservices/Play.Catelog/src/Play.Catalog.Contracts/obj/Debug/net6.0/Play.Catalog.Contracts.dll
+/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/Microservices/Play.Catelog/src/Play.Catalog.Contracts/obj/Debug/net6.0/refint/Play.Catalog.Contracts.dll
+/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/Microservices/Play.Catelog/src/Play.Catalog.Contracts/obj/Debug/net6.0/Play.Catalog.Contracts.pdb
+/Users/nhutma/Library/CloudStorage/OneDrive-QUANGTRUNGCOLLEGE/Personal/Studies/Programming/ASP.NET_Core/Microservices/Play.Catelog/src/Play.Catalog.Contracts/obj/Debug/net6.0/ref/Play.Catalog.Contracts.dll

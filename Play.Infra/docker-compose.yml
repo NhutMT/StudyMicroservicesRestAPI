@@ -1,0 +1,23 @@
+version: "7.0"
+
+services:
+  mongo:
+    image: mongo
+    container_name: mongo
+    ports:
+      - 27017:27017
+    volumes:
+      - mongodbdata:/data/db
+
+  rabbitmq:
+    image: rabbitmq:management
+    container_name: rabbitmq
+    ports:
+      - 5672:5672 # port using by service public message/consum message from rabbitmq
+      - 15672:15672 # port uses to able to go to the portal.
+    volumes:
+      - rabbitmqdata:/var/lib/rabbitmq
+    hostname: rabbitmq
+volumes:
+  mongodbdata:
+  rabbitmqdata:
